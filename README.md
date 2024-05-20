@@ -1,4 +1,4 @@
-# V3N0M_v1.1
+# V3N0M_v1.2
 V3N0M Rat
 
 Control Panel IP and Port
